@@ -111,5 +111,18 @@ It provides insights into:
 * 📂 **GitHub Repository:** [Power BI Inflation Analysis](https://github.com/Shivashankar-2023/Power-BI-Inflation-Analysis-Journeying-Through-Global-Economic-Terrain)
 * 📑 **Full Project Report:** [Project Report.pdf](./Project%20Report.pdf)
 ---
+🤝 Contributing
+Contributions are welcome!
+
+Fork the repo
+Create a new branch
+Submit a pull request 🎉
+
+---
+
+🌟 If you like these projects, don’t forget to star ⭐ this repo!
+
+---
+
 👨‍💻 **Author:** *Kancharla Shiva Shankar*
 ---
